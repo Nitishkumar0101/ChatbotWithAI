@@ -28,4 +28,4 @@ A beginner-friendly web application for a basic AI chatbot, built using HTML, CS
 4.  **Open in Browser:**
     -   Open the `index.html` file directly in your web browser.
 
-**Note:** For security reasons, never hardcode your API key in a production application. This method is used here for demonstration purposes only.
+
